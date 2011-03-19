@@ -1,0 +1,7 @@
+@import "http://ajax.googleapis.com/ajax/libs/dojo/1.6/dojox/grid/resources/Grid.css";
+@import "http://ajax.googleapis.com/ajax/libs/dojo/1.6/dojox/grid/resources/claroGrid.css";
+
+html, body { width: 100%; height: 100%; margin: 0; }
+.dojoxGrid table { margin: 0; } 
+
+#grid1 { height: 400px; }
